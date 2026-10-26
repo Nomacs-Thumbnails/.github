@@ -1,5 +1,3 @@
-Close without saving on a first look, then check the file time in Explorer. A directory that is not yours should be closed, not converted. Switch between fit and actual size on one photo before you judge the shoot. An export sits beside the original.
-
 # nomacs - View Pictures You Are Allowed to Open
 
 nomacs browses images in a folder you choose and opens one picture at a time. Viewing should not change the file. If you crop or export, write a new name and leave the original. It does not include a stock library, and a folder on a shared drive is not yours just because you can see the path.
